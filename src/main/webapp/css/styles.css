@@ -1,0 +1,33 @@
+body{
+	/*background: black;*/
+}
+
+.custom-bg {
+	/* background:#7c4dff!important; */
+	background:#f4511e!important;
+}
+
+.admin .card:hover {
+	background: #e2e2e2;
+	cursor: pointer;
+}
+
+
+.list-group-item.active{
+	background: #f4511e!important;
+	border-color: #f4511e!important; 
+}
+
+.original-price{
+	text-decoration: line-through!important;
+}
+
+
+.discount-label{
+	font-style: italic!important; 
+}
+
+.product-card:hover{
+	background: #e2e2e2;
+	cursor: pointer;
+}
